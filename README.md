@@ -1,4 +1,5 @@
-Encurtador de Links
+ENCURTADOR_LINKS
+
 Esse é um projeto em HTML, CSS e JavaScript que tem como objetivo encurtar links de teleconsulta que são enviados por e-mail e mensagem de texto. 
 Para isso, foi utilizado a API gratuita do Shrtcode para gerar um link mais curto a partir do link original.
 
@@ -23,7 +24,8 @@ Esse projeto foi desenvolvido por Magno Emanoel, para a Tecnologia-CPS: Unimed M
 
 ==================English version==================
 
-Link Shortener
+LINK_SHORTENER
+
 This is a project in HTML, CSS, and JavaScript that aims to shorten teleconsultation links sent by email and text message.
 For this, the free Shrtcode API was used to generate a shorter link from the original link.
 
